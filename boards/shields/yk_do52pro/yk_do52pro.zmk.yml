@@ -7,6 +7,5 @@ requires: [pro_micro]
 exposes: []
 features:
   - keys
-  - studio
 siblings:
   - yk_do52pro_right
