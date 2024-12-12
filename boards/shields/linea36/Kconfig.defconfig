@@ -20,7 +20,7 @@ config ZMK_KEYBOARD_NAME
 # endif
 
 # Options that should be enabled on both sides
-if SHIELD_YK_DO52PRO_LEFT || SHIELD_YK_DO52PRO_RIGHT
+# if SHIELD_YK_DO52PRO_LEFT || SHIELD_YK_DO52PRO_RIGHT
 
 # config ZMK_SPLIT
 #    default y
@@ -52,4 +52,4 @@ endchoice
 
 endif # LVGL
 
-endif
+# endif
