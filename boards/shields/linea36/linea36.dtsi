@@ -7,7 +7,7 @@
 #include <dt-bindings/zmk/matrix_transform.h>
 
 #include <physical_layouts.dtsi>
-#include "yk_do52pro-layouts.dtsi"
+#include "ylinea36-layouts.dtsi"
 / {
     chosen {
        

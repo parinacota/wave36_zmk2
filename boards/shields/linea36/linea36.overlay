@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "yk_do52pro.dtsi"
+#include "linea36.dtsi"
 
 
 &default_transform0 {
