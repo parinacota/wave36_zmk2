@@ -9,6 +9,7 @@
 # So, you need to define that the central side is the one to which the
 # pointing device is connected to.
 
-config ZMK_KEYBOARD_NAME
-    default "Linea36"
-
+if SHIELD_MY_BOARD
+config SHIELD_LINEA36
+    default "linea36"
+endif
