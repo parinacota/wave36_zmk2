@@ -14,16 +14,16 @@ if SHIELD_YK_DO52PRO_RIGHT
 config ZMK_KEYBOARD_NAME
     default "YK DO52Pro"
 
-config ZMK_SPLIT_ROLE_CENTRAL
-    default y
+#config ZMK_SPLIT_ROLE_CENTRAL
+#    default y
 
 endif
 
 # Options that should be enabled on both sides
 if SHIELD_YK_DO52PRO_LEFT || SHIELD_YK_DO52PRO_RIGHT
 
-config ZMK_SPLIT
-    default y
+#config ZMK_SPLIT
+#    default y
 
 if ZMK_DISPLAY
 
