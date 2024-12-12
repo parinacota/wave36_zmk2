@@ -17,7 +17,7 @@ config ZMK_KEYBOARD_NAME
 # config ZMK_SPLIT_ROLE_CENTRAL
 #    default y
 
-endif
+# endif
 
 # Options that should be enabled on both sides
 if SHIELD_YK_DO52PRO_LEFT || SHIELD_YK_DO52PRO_RIGHT
