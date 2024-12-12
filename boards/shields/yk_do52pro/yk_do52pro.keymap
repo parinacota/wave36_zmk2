@@ -129,7 +129,7 @@
       >;
     };
 
-
+/*
     Nav_layer {
       display-name = "Nav";
          bindings = <
@@ -296,7 +296,7 @@
 
 #endif
 
- 
+*/
 
   };
 };
